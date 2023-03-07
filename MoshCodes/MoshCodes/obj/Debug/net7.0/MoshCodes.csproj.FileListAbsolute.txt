@@ -1,0 +1,15 @@
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\bin\Debug\net7.0\MoshCodes.exe
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\bin\Debug\net7.0\MoshCodes.deps.json
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\bin\Debug\net7.0\MoshCodes.runtimeconfig.json
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\bin\Debug\net7.0\MoshCodes.dll
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\bin\Debug\net7.0\MoshCodes.pdb
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\MoshCodes.csproj.AssemblyReference.cache
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\MoshCodes.GeneratedMSBuildEditorConfig.editorconfig
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\MoshCodes.AssemblyInfoInputs.cache
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\MoshCodes.AssemblyInfo.cs
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\MoshCodes.csproj.CoreCompileInputs.cache
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\MoshCodes.dll
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\refint\MoshCodes.dll
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\MoshCodes.pdb
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\MoshCodes.genruntimeconfig.cache
+E:\pjtk\git\apbd\MoshCodes\MoshCodes\obj\Debug\net7.0\ref\MoshCodes.dll
